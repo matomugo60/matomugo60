@@ -8,7 +8,7 @@ I am a Junior Fullstack Software Developer.
 
 
 - 🔭 I’m currently working on JavaScript, React and Ruby on Rails
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning Redux and TypeScript 
 - 👯 I’m looking to collaborate on writing frontend code
 - 🤔 I’m looking for help with optimizing the code that I write 
 - 💬 Ask me about anything actually
